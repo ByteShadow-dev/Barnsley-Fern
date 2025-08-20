@@ -1,2 +1,2 @@
-# Barnsley-Fern
-Using Matplotlib and Numpy this is a simple Barnsley Fern Pattern
+# Fractals
+Some popular fractals made using python
